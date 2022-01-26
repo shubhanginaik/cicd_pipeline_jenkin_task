@@ -1,5 +1,5 @@
 'use strict';
 function sum(num1,num2){
-    return a+b;
+    return num1+num2;
 }
 module.exports={sum};
